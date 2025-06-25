@@ -1,0 +1,18 @@
+*{
+  margin: 0.5em
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline overline;
+  text-underline-offset: 10px;
+}
+
+h3{
+  text-decoration: underline double;
+  text-underline-offset: 4px;
+}
+
+.ejercicioContainer{
+  margin-bottom: 1.5em;
+}
